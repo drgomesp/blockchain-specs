@@ -13,9 +13,11 @@
 ## Concepts
 
 | Name              | Description                                                                                                                                                                             |
-|-------------------|---------------------------------------------------------------------------------------------|
-| **Broadcast**         | A type of network interaction that allows for loosely-coupled message-based communication.  |
-| **Unicast**           | A type of interaction where peers directly communicate with each other through a request/response-based model |
+|-------------------|-----------------------------------------------------------------------------------------------------|
+| **Node**          | A self-sufficient process that may store and process data as well as communicate with other nodes.  |
+| **Broadcast**     | A type of network interaction that allows for loosely-coupled message based communication.          |
+| **Unicast**       | A type of peer interaction that allows for a request/response style of communication.               |
+
 
 ## Network Interaction Types
 
