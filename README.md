@@ -7,7 +7,7 @@ This repository contains all specification documents which clients must use to b
 - Motivation
 - Terms
 - Design Principles
-- Milestones
+- Specs
 
 ## Introduction
 
@@ -17,7 +17,7 @@ This repository contains all specification documents which clients must use to b
 
 ## Design Principles
 
-## Specifications
+## Specs
 
 | Name              | Description                                                                                                                                                                             |
 |-------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
