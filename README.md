@@ -19,6 +19,6 @@ This repository contains all specification documents which clients must use to b
 
 ## Milestones
 
-| Name              | Description                     |
-|-------------------|---------------------------------|
-| [**Network**]()       | All specifications related to networking, protocol negotiation, message encoding and broadcast,        
+| Name              | Description                                                                                                                                                                             |
+|-------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| [**Network**](https://github.com/rhizomplatform/rhizom-specs/blob/main/milestones/01-networking.md)       | All specifications related to networking, protocol negotiation, message encoding and broadcast. |
