@@ -1,4 +1,4 @@
-# Rhizom Networking Specification
+# Blockchain Networking Specification
 
 ## Table of Contents
 
