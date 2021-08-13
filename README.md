@@ -1,6 +1,6 @@
-# Rhizom - Specifications
+# Blockchain - Specifications
 
-This repository contains all specification documents which clients must use to be compliant with the Rhizom network.
+This repository contains all specification documents which clients must use to be compliant with the Blockchain network.
 
 ## Table of Contents
 - Introduction
