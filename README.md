@@ -1,6 +1,7 @@
-# Blockchain - Specifications
+# βlockchain - Specifications
 
-This repository contains all specification documents which clients must use to be compliant with the Blockchain network.
+This repository contains all specification documents which clients must use to be compliant 
+with the βlockchain network.
 
 ## Table of Contents
 - Introduction
